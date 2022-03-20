@@ -30,3 +30,20 @@ Polite, have a high threshold emotional, stubborn in achieving the final result,
 * Git, Bitbucket
 * VS Code, PHP Storm 
 * Figma
+
+## Code Example
+```
+function isPrime(num) {
+  for(let i = 2; i <= Math.sqrt(num); i++) {
+    if(num % i === 0) {
+      return false;
+    }
+  }
+  return num > 1
+}
+```
+
+## Languages
+* Russian - native speaker
+* Ukrainian - native speaker
+* English - A2
